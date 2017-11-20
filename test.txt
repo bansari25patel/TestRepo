@@ -1,2 +1,6 @@
 line 1
+ master
 line 4
+
+line 4
+ master
